@@ -94,8 +94,8 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
-NAME:PRIYANKA A
-Reg No:212222230113
+NAME:HEMAVATHY S
+Reg No:212223230076
 ```
 ```c
 
